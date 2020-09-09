@@ -1,7 +1,6 @@
 import math
 from random import *
-import turtle
-salam="sdsadas"
+
 class Person:
     whole_society = []
     society_size = {"x":1300,"y":700}
